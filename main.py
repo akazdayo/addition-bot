@@ -38,4 +38,4 @@ async def default_command(interaction: discord.Interaction, formula: str):
 
 
 # Discordボットクライアントを実行します。
-client.run("MTAyMzg1MzE0NzY0NDUwNjIwMw.GCwgmE.heMFayfFND2QWTQhLyusvSeGHtml4EuPWICmPs")
+client.run("ボットトークンの記入")
