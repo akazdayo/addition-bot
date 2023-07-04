@@ -2,7 +2,6 @@ import discord
 from discord import app_commands
 import re
 
-# デフォルトの意図を設定します。
 intents = discord.Intents.default()
 
 # Discordクライアントを作成します。
